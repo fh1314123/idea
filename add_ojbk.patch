@@ -1,0 +1,692 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(date 1573809330200)
++++ .idea/workspace.xml	(date 1573809330200)
+@@ -1,445 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ArtifactsWorkspaceSettings">
+-    <artifacts-to-build>
+-      <artifact name="Demo1:war exploded" />
+-    </artifacts-to-build>
+-  </component>
+-  <component name="ChangeListManager">
+-    <list default="true" id="84ebb83d-70a1-4908-a3ab-c4505c2f6166" name="Default" comment="" />
+-    <ignored path="$PROJECT_DIR$/../Demo1/out/" />
+-    <ignored path="$PROJECT_DIR$/../Demo1/target/" />
+-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+-    <option name="TRACKING_ENABLED" value="true" />
+-    <option name="SHOW_DIALOG" value="false" />
+-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+-    <option name="LAST_RESOLUTION" value="IGNORE" />
+-  </component>
+-  <component name="FileEditorManager">
+-    <leaf>
+-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+-        <entry file="file://$PROJECT_DIR$/../Demo1/pom.xml">
+-          <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="-576">
+-              <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+-            </state>
+-          </provider>
+-        </entry>
+-      </file>
+-      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="true">
+-        <entry file="file://$PROJECT_DIR$/../Demo1/src/main/webapp/index.jsp">
+-          <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="95">
+-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+-            </state>
+-          </provider>
+-        </entry>
+-      </file>
+-    </leaf>
+-  </component>
+-  <component name="FileTemplateManagerImpl">
+-    <option name="RECENT_TEMPLATES">
+-      <list>
+-        <option value="JavaScript File" />
+-        <option value="Tag Library Descriptor" />
+-      </list>
+-    </option>
+-  </component>
+-  <component name="IdeDocumentHistory">
+-    <option name="CHANGED_PATHS">
+-      <list>
+-        <option value="$PROJECT_DIR$/../Demo1/src/test/java/Demo.js" />
+-        <option value="$PROJECT_DIR$/../Demo1/src/test/java/HelloWorld.js" />
+-        <option value="$PROJECT_DIR$/../Demo1/pom.xml" />
+-      </list>
+-    </option>
+-  </component>
+-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+-  <component name="JsGulpfileManager">
+-    <detection-done>true</detection-done>
+-    <sorting>DEFINITION_ORDER</sorting>
+-  </component>
+-  <component name="LogFilters">
+-    <option name="FILTER_ERRORS" value="false" />
+-    <option name="FILTER_WARNINGS" value="false" />
+-    <option name="FILTER_INFO" value="true" />
+-    <option name="FILTER_DEBUG" value="true" />
+-    <option name="CUSTOM_FILTER" />
+-  </component>
+-  <component name="MavenImportPreferences">
+-    <option name="generalSettings">
+-      <MavenGeneralSettings>
+-        <option name="localRepository" value="F:\class\liangjq\01\apache-maven-3.6.0\maven-repository" />
+-        <option name="userSettingsFile" value="F:\class\liangjq\01\apache-maven-3.6.0\apache-maven-3.6.0\conf\settings.xml" />
+-      </MavenGeneralSettings>
+-    </option>
+-  </component>
+-  <component name="NodePackageJsonFileManager">
+-    <packageJsonPaths />
+-  </component>
+-  <component name="ProjectFrameBounds" extendedState="6">
+-    <option name="x" value="85" />
+-    <option name="y" value="25" />
+-    <option name="width" value="1750" />
+-    <option name="height" value="968" />
+-  </component>
+-  <component name="ProjectView">
+-    <navigator proportions="" version="1">
+-      <foldersAlwaysOnTop value="true" />
+-    </navigator>
+-    <panes>
+-      <pane id="AndroidView" />
+-      <pane id="ProjectPane">
+-        <subPane>
+-          <expand>
+-            <path>
+-              <item name="Demo1" type="b2602c69:ProjectViewProjectNode" />
+-              <item name="Demo1" type="462c0819:PsiDirectoryNode" />
+-            </path>
+-            <path>
+-              <item name="Demo1" type="b2602c69:ProjectViewProjectNode" />
+-              <item name="Demo1" type="462c0819:PsiDirectoryNode" />
+-              <item name="src" type="462c0819:PsiDirectoryNode" />
+-            </path>
+-            <path>
+-              <item name="Demo1" type="b2602c69:ProjectViewProjectNode" />
+-              <item name="Demo1" type="462c0819:PsiDirectoryNode" />
+-              <item name="src" type="462c0819:PsiDirectoryNode" />
+-              <item name="main" type="462c0819:PsiDirectoryNode" />
+-            </path>
+-            <path>
+-              <item name="Demo1" type="b2602c69:ProjectViewProjectNode" />
+-              <item name="Demo1" type="462c0819:PsiDirectoryNode" />
+-              <item name="src" type="462c0819:PsiDirectoryNode" />
+-              <item name="main" type="462c0819:PsiDirectoryNode" />
+-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+-            </path>
+-            <path>
+-              <item name="Demo1" type="b2602c69:ProjectViewProjectNode" />
+-              <item name="Demo1" type="462c0819:PsiDirectoryNode" />
+-              <item name="src" type="462c0819:PsiDirectoryNode" />
+-              <item name="main" type="462c0819:PsiDirectoryNode" />
+-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+-            </path>
+-          </expand>
+-          <select />
+-        </subPane>
+-      </pane>
+-      <pane id="Scope" />
+-      <pane id="PackagesPane" />
+-    </panes>
+-  </component>
+-  <component name="PropertiesComponent">
+-    <property name="WebServerToolWindowFactoryState" value="false" />
+-    <property name="aspect.path.notification.shown" value="true" />
+-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Demo1" />
+-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+-    <property name="project.structure.last.edited" value="Modules" />
+-    <property name="project.structure.proportion" value="0.15" />
+-    <property name="project.structure.side.proportion" value="0.2" />
+-    <property name="settings.editor.selected.configurable" value="settings.github" />
+-  </component>
+-  <component name="RecentsManager">
+-    <key name="MoveFile.RECENT_KEYS">
+-      <recent name="F:\Demo1\src\main\webapp" />
+-      <recent name="F:\Demo1\src\main\webapp\WEB-INF" />
+-    </key>
+-  </component>
+-  <component name="RunDashboard">
+-    <option name="ruleStates">
+-      <list>
+-        <RuleState>
+-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+-        </RuleState>
+-        <RuleState>
+-          <option name="name" value="StatusDashboardGroupingRule" />
+-        </RuleState>
+-      </list>
+-    </option>
+-  </component>
+-  <component name="RunManager">
+-    <configuration default="true" type="Application" factoryName="Application">
+-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+-    </configuration>
+-    <configuration default="true" type="JUnit" factoryName="JUnit">
+-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+-      <option name="ALTERNATIVE_JRE_PATH" />
+-      <option name="PACKAGE_NAME" />
+-      <option name="MAIN_CLASS_NAME" />
+-      <option name="METHOD_NAME" />
+-      <option name="TEST_OBJECT" value="class" />
+-      <option name="VM_PARAMETERS" value="-ea" />
+-      <option name="PARAMETERS" />
+-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+-      <option name="PASS_PARENT_ENVS" value="true" />
+-      <option name="TEST_SEARCH_SCOPE">
+-        <value defaultName="singleModule" />
+-      </option>
+-      <patterns />
+-    </configuration>
+-    <configuration default="true" type="TestNG" factoryName="TestNG">
+-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+-      <option name="ALTERNATIVE_JRE_PATH" />
+-      <option name="SUITE_NAME" />
+-      <option name="PACKAGE_NAME" />
+-      <option name="MAIN_CLASS_NAME" />
+-      <option name="METHOD_NAME" />
+-      <option name="GROUP_NAME" />
+-      <option name="TEST_OBJECT" value="CLASS" />
+-      <option name="VM_PARAMETERS" value="-ea" />
+-      <option name="PARAMETERS" />
+-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+-      <option name="OUTPUT_DIRECTORY" />
+-      <option name="PASS_PARENT_ENVS" value="true" />
+-      <option name="TEST_SEARCH_SCOPE">
+-        <value defaultName="singleModule" />
+-      </option>
+-      <option name="USE_DEFAULT_REPORTERS" value="false" />
+-      <option name="PROPERTIES_FILE" />
+-      <properties />
+-      <listeners />
+-    </configuration>
+-    <configuration name="Tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.46" ALTERNATIVE_JRE_ENABLED="false">
+-      <option name="UPDATING_POLICY" value="restart-server" />
+-      <deployment>
+-        <artifact name="Demo1:war exploded">
+-          <settings>
+-            <option name="CONTEXT_PATH" value="/" />
+-          </settings>
+-        </artifact>
+-      </deployment>
+-      <server-settings>
+-        <option name="BASE_DIRECTORY_NAME" value="Unnamed_Demo1" />
+-      </server-settings>
+-      <predefined_log_file id="Tomcat" enabled="true" />
+-      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+-      <predefined_log_file id="Tomcat Manager" enabled="false" />
+-      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+-      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+-      <RunnerSettings RunnerId="Debug">
+-        <option name="DEBUG_PORT" value="50221" />
+-      </RunnerSettings>
+-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+-        <option name="USE_ENV_VARIABLES" value="true" />
+-        <STARTUP>
+-          <option name="USE_DEFAULT" value="true" />
+-          <option name="SCRIPT" value="" />
+-          <option name="VM_PARAMETERS" value="" />
+-          <option name="PROGRAM_PARAMETERS" value="" />
+-        </STARTUP>
+-        <SHUTDOWN>
+-          <option name="USE_DEFAULT" value="true" />
+-          <option name="SCRIPT" value="" />
+-          <option name="VM_PARAMETERS" value="" />
+-          <option name="PROGRAM_PARAMETERS" value="" />
+-        </SHUTDOWN>
+-      </ConfigurationWrapper>
+-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+-        <option name="USE_ENV_VARIABLES" value="true" />
+-        <STARTUP>
+-          <option name="USE_DEFAULT" value="true" />
+-          <option name="SCRIPT" value="" />
+-          <option name="VM_PARAMETERS" value="" />
+-          <option name="PROGRAM_PARAMETERS" value="" />
+-        </STARTUP>
+-        <SHUTDOWN>
+-          <option name="USE_DEFAULT" value="true" />
+-          <option name="SCRIPT" value="" />
+-          <option name="VM_PARAMETERS" value="" />
+-          <option name="PROGRAM_PARAMETERS" value="" />
+-        </SHUTDOWN>
+-      </ConfigurationWrapper>
+-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+-        <option name="USE_ENV_VARIABLES" value="true" />
+-        <STARTUP>
+-          <option name="USE_DEFAULT" value="true" />
+-          <option name="SCRIPT" value="" />
+-          <option name="VM_PARAMETERS" value="" />
+-          <option name="PROGRAM_PARAMETERS" value="" />
+-        </STARTUP>
+-        <SHUTDOWN>
+-          <option name="USE_DEFAULT" value="true" />
+-          <option name="SCRIPT" value="" />
+-          <option name="VM_PARAMETERS" value="" />
+-          <option name="PROGRAM_PARAMETERS" value="" />
+-        </SHUTDOWN>
+-      </ConfigurationWrapper>
+-      <method>
+-        <option name="BuildArtifacts" enabled="true">
+-          <artifact name="Demo1:war exploded" />
+-        </option>
+-      </method>
+-    </configuration>
+-  </component>
+-  <component name="SvnConfiguration">
+-    <configuration />
+-  </component>
+-  <component name="TaskManager">
+-    <task active="true" id="Default" summary="Default task">
+-      <changelist id="84ebb83d-70a1-4908-a3ab-c4505c2f6166" name="Default" comment="" />
+-      <created>1573805957037</created>
+-      <option name="number" value="Default" />
+-      <option name="presentableId" value="Default" />
+-      <updated>1573805957037</updated>
+-      <workItem from="1573805962986" duration="3288000" />
+-    </task>
+-    <servers />
+-  </component>
+-  <component name="TimeTrackingManager">
+-    <option name="totallyTimeSpent" value="3288000" />
+-  </component>
+-  <component name="ToolWindowManager">
+-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+-    <layout>
+-      <window_info anchor="right" id="Palette" />
+-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+-      <window_info anchor="bottom" id="Application Servers" weight="0.32980332" />
+-      <window_info anchor="right" id="Maven Projects" />
+-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+-      <window_info id="Capture Tool" />
+-      <window_info id="Designer" />
+-      <window_info anchor="right" id="Database" />
+-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+-      <window_info id="UI Designer" />
+-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+-      <window_info anchor="bottom" id="TODO" order="6" />
+-      <window_info anchor="bottom" id="Messages" weight="0.32980332" />
+-      <window_info anchor="right" id="Palette&#9;" />
+-      <window_info id="Image Layers" />
+-      <window_info anchor="bottom" id="Java Enterprise" />
+-      <window_info anchor="right" id="Capture Analysis" />
+-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30068967" />
+-      <window_info anchor="bottom" id="Terminal" />
+-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22526042" />
+-      <window_info id="Web" side_tool="true" />
+-      <window_info anchor="right" id="Theme Preview" />
+-      <window_info id="Favorites" side_tool="true" />
+-      <window_info anchor="bottom" id="Find" order="1" />
+-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+-      <window_info anchor="bottom" id="Message" order="0" />
+-    </layout>
+-  </component>
+-  <component name="TypeScriptGeneratedFilesManager">
+-    <option name="version" value="1" />
+-  </component>
+-  <component name="VcsContentAnnotationSettings">
+-    <option name="myLimit" value="2678400000" />
+-  </component>
+-  <component name="editorHistoryManager">
+-    <entry file="file://$PROJECT_DIR$/../Demo1/src/test/java/Demo.js">
+-      <provider selected="true" editor-type-id="text-editor" />
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/../Demo1/src/test/java/HelloWorld.js">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="95">
+-          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/../Demo1/pom.xml">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="-576">
+-          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/../Demo1/src/main/webapp/Hello.tld">
+-      <provider selected="true" editor-type-id="text-editor" />
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/../Demo1/src/main/webapp/WEB-INF/hello.tld">
+-      <provider selected="true" editor-type-id="text-editor" />
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/../Demo1/src/main/webapp/index.jsp">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="95">
+-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+-        </state>
+-      </provider>
+-    </entry>
+-  </component>
+-  <component name="masterDetails">
+-    <states>
+-      <state key="ArtifactsStructureConfigurable.UI">
+-        <settings>
+-          <artifact-editor />
+-          <last-edited>Demo1:war exploded</last-edited>
+-          <splitter-proportions>
+-            <option name="proportions">
+-              <list>
+-                <option value="0.2" />
+-                <option value="0.5" />
+-              </list>
+-            </option>
+-          </splitter-proportions>
+-        </settings>
+-      </state>
+-      <state key="FacetStructureConfigurable.UI">
+-        <settings>
+-          <last-edited>Web</last-edited>
+-          <splitter-proportions>
+-            <option name="proportions">
+-              <list>
+-                <option value="0.2" />
+-              </list>
+-            </option>
+-          </splitter-proportions>
+-        </settings>
+-      </state>
+-      <state key="GlobalLibrariesConfigurable.UI">
+-        <settings>
+-          <splitter-proportions>
+-            <option name="proportions">
+-              <list>
+-                <option value="0.2" />
+-              </list>
+-            </option>
+-          </splitter-proportions>
+-        </settings>
+-      </state>
+-      <state key="JdkListConfigurable.UI">
+-        <settings>
+-          <last-edited>1.8</last-edited>
+-          <splitter-proportions>
+-            <option name="proportions">
+-              <list>
+-                <option value="0.2" />
+-              </list>
+-            </option>
+-          </splitter-proportions>
+-        </settings>
+-      </state>
+-      <state key="ModuleStructureConfigurable.UI">
+-        <settings>
+-          <last-edited>Web|Demo1</last-edited>
+-          <splitter-proportions>
+-            <option name="proportions">
+-              <list>
+-                <option value="0.2" />
+-              </list>
+-            </option>
+-          </splitter-proportions>
+-        </settings>
+-      </state>
+-      <state key="ProjectLibrariesConfigurable.UI">
+-        <settings>
+-          <splitter-proportions>
+-            <option name="proportions">
+-              <list>
+-                <option value="0.2" />
+-              </list>
+-            </option>
+-          </splitter-proportions>
+-        </settings>
+-      </state>
+-    </states>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/misc.xml	(date 1573805978553)
++++ .idea/misc.xml	(date 1573805978553)
+@@ -1,14 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ExternalStorageConfigurationManager" enabled="true" />
+-  <component name="MavenProjectsManager">
+-    <option name="originalFiles">
+-      <list>
+-        <option value="$PROJECT_DIR$/../Demo1/pom.xml" />
+-      </list>
+-    </option>
+-  </component>
+-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+-    <output url="file://$PROJECT_DIR$/../Demo1/out" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: src/main/webapp/index.jsp
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/webapp/index.jsp	(date 1573806081382)
++++ src/main/webapp/index.jsp	(date 1573806081382)
+@@ -1,5 +0,0 @@
+-<html>
+-<body>
+-<h2>Hello World!</h2>
+-</body>
+-</html>
+Index: Demo1.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- Demo1.iml	(date 1573808750375)
++++ Demo1.iml	(date 1573808750375)
+@@ -1,19 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<module type="JAVA_MODULE" version="4">
+-  <component name="FacetManager">
+-    <facet type="web" name="Web">
+-      <configuration>
+-        <descriptors>
+-          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/../Demo1/web/WEB-INF/web.xml" />
+-        </descriptors>
+-        <webroots>
+-          <root url="file://$MODULE_DIR$/../Demo1/src/main/webapp" relative="/" />
+-        </webroots>
+-        <sourceRoots>
+-          <root url="file://$MODULE_DIR$/../Demo1/src/main/java" />
+-          <root url="file://$MODULE_DIR$/../Demo1/src/main/resources" />
+-        </sourceRoots>
+-      </configuration>
+-    </facet>
+-  </component>
+-</module>
+\ No newline at end of file
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/vcs.xml	(date 1573809330196)
++++ .idea/vcs.xml	(date 1573809330196)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="VcsDirectoryMappings">
+-    <mapping directory="$PROJECT_DIR$/../Demo1" vcs="Git" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: src/main/webapp/WEB-INF/web.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/webapp/WEB-INF/web.xml	(date 1573806081381)
++++ src/main/webapp/WEB-INF/web.xml	(date 1573806081381)
+@@ -1,7 +0,0 @@
+-<!DOCTYPE web-app PUBLIC
+- "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+- "http://java.sun.com/dtd/web-app_2_3.dtd" >
+-
+-<web-app>
+-  <display-name>Archetype Created Web Application</display-name>
+-</web-app>
+Index: web/WEB-INF/web.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- web/WEB-INF/web.xml	(date 1573806559236)
++++ web/WEB-INF/web.xml	(date 1573806559236)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+-         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+-         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
+-         version="4.0">
+-</web-app>
+\ No newline at end of file
+Index: pom.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- pom.xml	(date 1573807902458)
++++ pom.xml	(date 1573807902458)
+@@ -1,77 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-
+-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+-  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+-  <modelVersion>4.0.0</modelVersion>
+-
+-  <groupId>cn.xdl</groupId>
+-  <artifactId>Demo1</artifactId>
+-  <version>1.0-SNAPSHOT</version>
+-  <packaging>war</packaging>
+-
+-  <name>Demo1 Maven Webapp</name>
+-  <!-- FIXME change it to the project's website -->
+-  <url>http://www.example.com</url>
+-
+-  <properties>
+-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+-    <maven.compiler.source>1.7</maven.compiler.source>
+-    <maven.compiler.target>1.7</maven.compiler.target>
+-  </properties>
+-
+-  <dependencies>
+-    <dependency>
+-      <groupId>junit</groupId>
+-      <artifactId>junit</artifactId>
+-      <version>4.11</version>
+-      <scope>test</scope>
+-    </dependency>
+-  </dependencies>
+-
+-  <build>
+-    <finalName>Demo1</finalName>
+-    <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
+-      <plugins>
+-        <plugin>
+-          <artifactId>maven-clean-plugin</artifactId>
+-          <version>3.1.0</version>
+-        </plugin>
+-        <!-- see http://maven.apache.org/ref/current/maven-core/default-bindings.html#Plugin_bindings_for_war_packaging -->
+-        <plugin>
+-          <artifactId>maven-resources-plugin</artifactId>
+-          <version>3.0.2</version>
+-        </plugin>
+-        <plugin>
+-          <artifactId>maven-compiler-plugin</artifactId>
+-          <version>3.8.0</version>
+-        </plugin>
+-        <plugin>
+-          <artifactId>maven-surefire-plugin</artifactId>
+-          <version>2.22.1</version>
+-        </plugin>
+-        <plugin>
+-          <artifactId>maven-war-plugin</artifactId>
+-          <version>3.2.2</version>
+-        </plugin>
+-        <plugin>
+-          <artifactId>maven-install-plugin</artifactId>
+-          <version>2.5.2</version>
+-        </plugin>
+-        <plugin>
+-          <artifactId>maven-deploy-plugin</artifactId>
+-          <version>2.8.2</version>
+-        </plugin>
+-        <plugin>
+-          <groupId>org.apache.tomcat.maven</groupId>
+-          <artifactId>tomcat7-maven-plugin</artifactId>
+-          <version>2.2</version>
+-          <configuration>
+-            <path>/</path>
+-            <port>8080</port>
+-            <uriEncoding>UTF-8</uriEncoding>
+-          </configuration>
+-        </plugin>
+-      </plugins>
+-    </pluginManagement>
+-  </build>
+-</project>
+Index: .idea/artifacts/Demo1_war_exploded.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/artifacts/Demo1_war_exploded.xml	(date 1573806604160)
++++ .idea/artifacts/Demo1_war_exploded.xml	(date 1573806604160)
+@@ -1,13 +0,0 @@
+-<component name="ArtifactManager">
+-  <artifact type="exploded-war" name="Demo1:war exploded">
+-    <output-path>$PROJECT_DIR$/../Demo1/out/artifacts/Demo1_war_exploded</output-path>
+-    <root id="root">
+-      <element id="directory" name="WEB-INF">
+-        <element id="directory" name="classes">
+-          <element id="module-output" name="Demo1" />
+-        </element>
+-      </element>
+-      <element id="javaee-facet-resources" facet="Demo1/web/Web" />
+-    </root>
+-  </artifact>
+-</component>
+\ No newline at end of file
+Index: .idea/compiler.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/compiler.xml	(date 1573806169580)
++++ .idea/compiler.xml	(date 1573806169580)
+@@ -1,13 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="CompilerConfiguration">
+-    <annotationProcessing>
+-      <profile name="Maven default annotation processors profile" enabled="true">
+-        <sourceOutputDir name="target/generated-sources/annotations" />
+-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+-        <outputRelativeToContentRoot value="true" />
+-        <module name="Demo1" />
+-      </profile>
+-    </annotationProcessing>
+-  </component>
+-</project>
+\ No newline at end of file
